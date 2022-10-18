@@ -1,7 +1,7 @@
 {
   "name": "icontest-dummy",
   "main": "./lib/test",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "A short description of your package",
   "keywords": [
     "repo",
@@ -10,7 +10,7 @@
   "activationCommands": {
     "atom-workspace": "test:toggle"
   },
-  "repository": "https://github.com/icondevteam/icontest.git",
+  "repository": "https://github.com/icondevteam/icontest",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0"
