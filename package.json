@@ -1,11 +1,11 @@
 {
   "name": "icontest",
   "main": "./lib/test",
-  "version": "3.14.0",
+  "version": "0.0.0",
   "description": "A short description of your package",
   "keywords": [
     "repo",
-    "icontest",
+    "icontest"
   ],
   "activationCommands": {
     "atom-workspace": "test:toggle"
