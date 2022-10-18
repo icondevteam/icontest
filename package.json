@@ -3,7 +3,10 @@
   "main": "./lib/test",
   "version": "3.14.0",
   "description": "A short description of your package",
-  "keywords": [],
+  "keywords": [
+    "repo",
+    "icontest",
+  ],
   "activationCommands": {
     "atom-workspace": "test:toggle"
   },
